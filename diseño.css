@@ -1,0 +1,109 @@
+*{
+    box-sizing: border-box;
+    margin: 10px;
+    padding:10px;
+    
+    }
+    html{
+    font-size: 16px
+    
+    }
+    
+    body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:hsl(0,7%,22%);
+    font-size:25px
+    }
+    
+    .profile{
+    background-color:hsl(0, 25%, 46%);
+    padding:50px;
+    border-radius:20px;
+    
+    }
+    
+    .profile_avatar{
+    
+    border-radius:50%;
+    height: 200px;
+    width: 200px;
+    }
+    
+    .profile_name{
+    font-size: 28px;
+    color:white;
+    text-align:left;
+    }
+    .profile_city{
+    font-size: 28px;
+    color:white;
+    text-align:left;
+    }
+    .profile_description{
+    font-size: 28px;
+    color:white;
+    text-align:left;
+    }
+    AHORA PASAMOS A LOS BOTONES 
+    section button>p {
+    font-size:30px;
+    }
+    
+    section button:first-child{
+    
+    background-color: rgb(161, 62, 62);
+    color: white;
+    }
+    
+    button{
+    border-radius:10px;
+    margin-top:5px;
+    background-color: rgb(161, 62, 62);
+    color: white;
+    }
+    
+    .dos{
+    display:flex;
+    flex-direction:column;
+    }
+html{
+    font-size: 16px;
+}
+
+.pets{
+    background-color:hsl(0, 38%, 81%);
+    padding:50px;
+    border-radius:20px;
+}
+.profile_pets{
+    border-radius:50%;
+    height: 180px;
+    width: 185px;
+}
+
+.profile_pet_name{
+    font-size: 28px;
+    color:white;
+    text-align: center;
+}
+
+.profile_age{
+    font-size: 18;
+    color:white;
+    text-align: left;
+}
+
+.profile_caracter{
+    font-size: 18;
+    color:white;
+    text-align: left;
+}
+
+.Especificaciones{
+    font-size: 18;
+    color:white;
+    text-align: left;
+}
+    
